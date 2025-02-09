@@ -1,0 +1,7 @@
+Classes: Tictactoe, Player, Playerfactory, Board Button
+Objects: Scene, Label, Button, And combobox
+I see that there is "Private" for encapsulation
+Abstraction is in "Private void" and "Player Factory"
+Tictactoe class is inheritance
+What I dont know is " this.gridPaneArray = new Node[this.squares][this.squares]: "
+After researching it makes a new square for the grid.
